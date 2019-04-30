@@ -1,5 +1,6 @@
 require(tidyverse)
 require(tidygraph)
+require(igraph)
 require(ggraph)
 
 # Example tibble from Twitter
